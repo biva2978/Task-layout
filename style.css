@@ -1,0 +1,54 @@
+
+/* header */
+.header{
+    background: #E7E9EB;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 8px;
+}
+
+/* Navigation Bar */
+.navbar{
+    background: #E7E9EB;
+    text-align: right;
+    padding: 14px 16px;
+    margin-bottom: 8px;
+   
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+nav a:hover{
+    color: maroon;
+    background-color: greenyellow;
+}
+/* Content */
+.content h2{
+    text-align: center;
+}
+.content{
+    display: flex;
+    
+}
+aside{
+    background: #E7E9EB;
+    width: 30%;
+}
+ .left{
+    margin-right: 8px;
+ }
+ .right{
+    margin-left: 8px;
+ }
+.mainContent{
+    background: #E7E9EB;
+}
+/* footer */
+
+footer {
+    background: #E7E9EB;
+    text-align: center;
+    padding: 10px;
+    margin-top: 8px;
+}
